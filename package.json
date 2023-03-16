@@ -18,5 +18,6 @@
   "homepage": "https://github.com/its-pablo/craftbot#readme",
   "dependencies": {
     "ws": "^8.13.0"
-  }
+  },
+  "type": "module"
 }
