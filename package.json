@@ -1,0 +1,22 @@
+{
+  "name": "craftbot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/its-pablo/craftbot.git"
+  },
+  "author": "stretch07",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/its-pablo/craftbot/issues"
+  },
+  "homepage": "https://github.com/its-pablo/craftbot#readme",
+  "dependencies": {
+    "ws": "^8.13.0"
+  }
+}
