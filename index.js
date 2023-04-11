@@ -14,7 +14,3 @@ export default class Craftbot {
         this.SOCKET.send(await sendChat(msg))
     }
 }
-
-let thing = new Craftbot
-await thing.connect("ffa1")
-await thing.sendChat("yo")
